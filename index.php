@@ -1,6 +1,6 @@
 <?php
 namespace phpList;
-include('core\phpList.php');
+include('core'.DIRECTORY_SEPARATOR.'phpList.php');
 
 
 
